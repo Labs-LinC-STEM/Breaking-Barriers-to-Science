@@ -15,12 +15,6 @@ STEM grade 9 high school students will be provided with the chance to conduct in
 
 ---
 
-### Funding
-
-This project has been financially supported by the UTSC 60th Legacy Award (https://www.utsc.utoronto.ca/home/u-t-scarborough-60), the Department of Biological Sciences E.D.I Committee (through a P.I.E grant, https://www.utsc.utoronto.ca/biosci/biological-sciences-edi), and in-kind support by the Andrade lab (https://www.utsc.utoronto.ca/labs/andrade/personnel/), and the Departments of Biological Sciences and Computer and Mathematical Sciences at UTSC.
-
----
-
 ### Members
 Founder and Program Lead [Luciana Baruffaldi, PhD.](https://www.utsc.utoronto.ca/labs/andrade/personnel/)
  
@@ -30,7 +24,13 @@ Faculty Partners:
     [Prof. Fiona Rawle](https://www.utm.utoronto.ca/biology/people/fiona-rawle)
 
 Graudate Students Partners & Facilitators:
-    Laini Taylor, Susheen Mahmood
+    Laini Taylor (PhD student); Susheen Mahmood, MSc
+
+---
+
+### Funding
+
+This project has been financially supported by the UTSC 60th Legacy Award (https://www.utsc.utoronto.ca/home/u-t-scarborough-60), the Department of Biological Sciences E.D.I Committee (through a P.I.E grant, https://www.utsc.utoronto.ca/biosci/biological-sciences-edi), and in-kind support by the Andrade lab (https://www.utsc.utoronto.ca/labs/andrade/personnel/), and the Departments of Biological Sciences and Computer and Mathematical Sciences at UTSC.
 
 ---
 
