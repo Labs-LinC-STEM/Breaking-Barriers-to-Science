@@ -1,23 +1,29 @@
 # Video Labs
 
-  * Daphnia:
+## Pond Water
+<video width="640" height="480" controls>
+  <source src="labs/PondWater.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Lemna
+<video width="640" height="480" controls>
+  <source src="labs/Lemna.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+## Daphnia
 <video width="640" height="480" controls>
   <source src="labs/Daphnia.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-
-  * Photosynthesis:
+## Photosynthesis
 <video width="640" height="480" controls>
   <source src="labs/Photosynthesis.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-
-
-| Pond Water      |  Lemna          |
-| --------------- | --------------- |
-| <video width="640" height="480" controls> <source src="labs/PondWater.mp4" type="video/mp4"> Your browser does not support the video tag. </video> | <video width="640" height="480" controls>  <source src="labs/Lemna.mp4" type="video/mp4">  Your browser does not support the video tag.</video> |
 
 ---
 
