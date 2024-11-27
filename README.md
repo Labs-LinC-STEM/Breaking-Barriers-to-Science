@@ -19,8 +19,6 @@ This project has been financially supported by the UTSC 60th Legacy Award (https
 
 The materials available in this project are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en).
 
-(c) Luciana Baruffaldi
-
-Nov. 2024
+(c) Luciana Baruffaldi   |   Nov. 2024
 
 ---
