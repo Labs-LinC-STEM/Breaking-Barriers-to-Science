@@ -1,36 +1,32 @@
 # Video Labs
 
-<p>
-  * Pond Water Microscopy
+* Pond Water Microscopy
   <video width="640" height="480" controls>
     <source src="labs/PondWater.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</p>
 
-<p>
+
 * Lemna: Aquatic Growth Bioassay
   <video width="640" height="480" controls>
     <source src="labs/Lemna.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</p>
 
-<p>
+
 * Physiological Response to Temperature Changes in Daphnia
   <video width="640" height="480" controls>
     <source src="labs/Daphnia.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</p>
 
-<p>
+
 * Effects of Chemicals on Photosynthesis
   <video width="640" height="480" controls>
     <source src="labs/Photosynthesis.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-</p>
+
 
 ---
 
