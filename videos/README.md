@@ -16,7 +16,7 @@
   </video>
 </p>
 
-<p></p>
+<p>
 * Physiological Response to Temperature Changes in Daphnia
   <video width="640" height="480" controls>
     <source src="labs/Daphnia.mp4" type="video/mp4">
