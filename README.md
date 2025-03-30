@@ -1,6 +1,6 @@
 # "Breaking Barriers to Science while Building a Long-lasting Legacy in our Communities" 
 
-Is a curriculum-linked science enrichment project, part of the "Labs Linked to Curriculum in STEM" program, with a mission to increase access to and engagement with STEM among high school students from our local community at Scarborough. 
+Is a curriculum-linked science enrichment project, part of the "Linking Laboratories to Curriculum in STEM" (LinC STEM) program, with a mission to increase access to and engagement with STEM among high school students from our local community at Scarborough. 
 
 With this FREE science enrichment program, we hope to help break down the systemic barrier to access in education by connecting high school students from under-represented and under-served local communities in Scarborough with UTSC students, researcher, staff and faculty.
 
