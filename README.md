@@ -11,8 +11,11 @@ STEM grade 9 high school students will be provided with the chance to conduct in
 ---
 
 ## Materials
+### Videos
    * [Video Lab. Recordings](videos)
-   * [Slides](materials/slides)
+
+### Slides
+   * [Game of Life](materials/slides/GameOfLife.pdf)
      
 ---
 
