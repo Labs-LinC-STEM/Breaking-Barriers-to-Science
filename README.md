@@ -28,7 +28,7 @@ Faculty Partners:
     [Assist. Prof. Marcelo Ponce](https://www.utsc.utoronto.ca/cms/marcelo-ponce),
     [Prof. Fiona Rawle](https://www.utm.utoronto.ca/biology/people/fiona-rawle)
 
-Graudate Students Partners & Facilitators:
+Graduate Students Partners & Facilitators:
     Laini Taylor (PhD student); Susheen Mahmood, MSc
 
 ---
