@@ -31,7 +31,7 @@ Graudate Students Partners & Facilitators:
 
 ### Funding
 
-This project has been financially supported by the UTSC 60th Legacy Award (https://www.utsc.utoronto.ca/home/u-t-scarborough-60), the Department of Biological Sciences E.D.I Committee (through a P.I.E grant, https://www.utsc.utoronto.ca/biosci/biological-sciences-edi), and in-kind support by the Andrade lab (https://www.utsc.utoronto.ca/labs/andrade/personnel/), and the Departments of Biological Sciences and Computer and Mathematical Sciences at UTSC.
+This project has been financially supported by the UTSC 60th Legacy Award (https://www.utsc.utoronto.ca/home/u-t-scarborough-60), the Department of Biological Sciences E.D.I. Committee (through a P.I.E. grant, https://www.utsc.utoronto.ca/biosci/biological-sciences-edi), and in-kind support by the Andrade lab (https://www.utsc.utoronto.ca/labs/andrade/personnel/), and the Departments of Biological Sciences and Computer and Mathematical Sciences at UTSC.
 
 ---
 
