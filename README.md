@@ -19,9 +19,10 @@ STEM grade 9 high school students will be provided with the chance to conduct in
      
 ---
 
-## In the News
+## In the News & Public Presentations
 
-   * [UTSC News, May 2, 2025](https://utsc.utoronto.ca/news-events/our-community/u-t-scarborough-funds-legacy-leaving-projects-60th-birthday)
+   * [University of Toronto ACD 2025 (May 2025)](https://www.aspo.utoronto.ca/2025/04/12/acd-2025-3/)
+   * [University of Toronto Scarborough News (May 2, 2025)](https://utsc.utoronto.ca/news-events/our-community/u-t-scarborough-funds-legacy-leaving-projects-60th-birthday)
 
 
 ---
