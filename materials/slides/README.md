@@ -2,11 +2,6 @@
 
 * Game of Life
 
-<iframe src="materials/slides/GameOfLife.pdf" width="100%" height="600px" style="border: none;">
-    This browser does not support PDFs. Please download the PDF to view it: 
-    <!-- <a href="materials/slides/GameOfLife.pdf">Download PDF</a>. -->
-</iframe>
-
 <object data="materials/slides/GameOfLife.pdf" type="application/pdf" width="100%" height="500px">
  <embed src="materials/slides/GameOfLife.pdf">
  <p> 
