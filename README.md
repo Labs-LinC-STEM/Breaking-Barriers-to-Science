@@ -19,6 +19,13 @@ STEM grade 9 high school students will be provided with the chance to conduct in
      
 ---
 
+## In the News
+
+   * [UTSC News, May 2, 2025](https://utsc.utoronto.ca/news-events/our-community/u-t-scarborough-funds-legacy-leaving-projects-60th-birthday)
+
+
+---
+
 ### Members
 Founder and Program Lead:
             [Luciana Baruffaldi, PhD.](https://www.utsc.utoronto.ca/labs/andrade/personnel/)
