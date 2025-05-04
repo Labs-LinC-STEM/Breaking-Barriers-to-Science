@@ -1,8 +1,10 @@
 # Slides/Lectures
 
-<object data="GameOfLife.pd f" type="application/pdf" width="100%" height="500px">
+<object data="GameOfLife.pd f" type="application/pdf" width="200%" >
  <embed src="GameOfLife.pdf ">
-  Game of Life lecture (April 2025) 
+ <p>
+  Game of Life lecture (April 2025)
+ </p>
  </embed>
 </object>
 
