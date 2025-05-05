@@ -13,6 +13,9 @@
 * Daphnia Cold Temperature
 <video width="640" height="480" controls>
     <source src="workshop/Video_Daphnia_Cold-1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<video width="640" height="480" controls>    
     <source src="workshop/Video_Daphnia_Cold-2.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
