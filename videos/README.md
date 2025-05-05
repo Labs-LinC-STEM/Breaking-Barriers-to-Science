@@ -1,4 +1,4 @@
-# Workshops Videos
+# Workshop Videos
 
 * Daphnia Room Temperature
 <video width="640" height="480" controls>
@@ -11,8 +11,9 @@
 </video>
 
 
+---
 
-# Video Labs
+# Labs Videos
 
 * Pond Water Microscopy
 <video width="640" height="480" controls>
