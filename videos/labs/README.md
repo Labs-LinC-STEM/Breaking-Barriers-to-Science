@@ -2,28 +2,28 @@
 
 * Pond Water Microscopy
 <video width="640" height="480" controls>
-    <source src="labs/PondWater.mp4" type="video/mp4">
+    <source src="./PondWater.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
 
 * Population Aquatic Growth Bioassay
 <video width="640" height="480" controls>
-    <source src="labs/Lemna.mp4" type="video/mp4">
+    <source src="./Lemna.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
 
 * Physiological Response to Temperature Changes in Daphnia
 <video width="640" height="480" controls>
-    <source src="labs/Daphnia.mp4" type="video/mp4">
+    <source src="./Daphnia.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
 
 * Effects of Chemicals on Photosynthesis
 <video width="640" height="480" controls>
-    <source src="labs/Photosynthesis.mp4" type="video/mp4">
+    <source src="./Photosynthesis.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
