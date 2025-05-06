@@ -12,7 +12,8 @@ STEM grade 9 high school students will be provided with the chance to conduct in
 
 ## Materials
 ### Videos
-   * [Video Lab. Recordings](videos)
+   * [Video Lab. Recordings](videos/labs)
+   * [Workshops Recordings](videos/workshop)
 
 ### Lectures
    * [Slides](materials/slides)
