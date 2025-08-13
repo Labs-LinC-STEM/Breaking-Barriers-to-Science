@@ -30,7 +30,8 @@ STEM grade 9 high school students will be provided with the chance to conduct in
 
 ### Members
 Founder and Program Lead:
-            [Luciana Baruffaldi, PhD.](https://scholar.google.ca/citations?hl=en&user=cRKvAN8AAAAJ)
+            [Luciana Baruffaldi, PhD.](http://www.aspo.utoronto.ca/2025/04/12/acd-2025-3/) -- 
+            [Luciana's Research](https://scholar.google.ca/citations?hl=en&user=cRKvAN8AAAAJ)
  
 Faculty Partners:
     [Prof. Maydianne CB Andrade](https://www.utsc.utoronto.ca/labs/andrade/personnel/),
