@@ -22,7 +22,8 @@ STEM grade 9 high school students will be provided with the chance to conduct in
 
 ## In the News & Public Presentations
 
-   * [East End Change-Maker Spotligh, UTSC (Aug. 2025)](https://us8.campaign-archive.com/?e=%5BUNIQID%5D&u=bfafa7d4cc569ddadf458a479&id=beeb9cbb49)
+   * Members of the program and LinC STEM featured in [UTSC's "Gems in the East End: August Edition" (Aug. 2025)](https://us8.campaign-archive.com/?e=%5BUNIQID%5D&u=bfafa7d4cc569ddadf458a479&id=beeb9cbb49)
+     - "East End Change-Maker Spotligh" & "Local Gems to Know"
    * [University of Toronto ACD 2025 (May 2025)](https://www.aspo.utoronto.ca/2025/04/12/acd-2025-3/)
    * [University of Toronto Scarborough News (May 2, 2025)](https://utsc.utoronto.ca/news-events/our-community/u-t-scarborough-funds-legacy-leaving-projects-60th-birthday)
 
